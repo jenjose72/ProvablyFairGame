@@ -1,0 +1,2 @@
+# ProvablyFairGame
+Simple Betting Game
