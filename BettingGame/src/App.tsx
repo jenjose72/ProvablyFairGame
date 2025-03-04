@@ -1,4 +1,4 @@
-import Page from './app/page.tsx'
+import Page from './app/Page.tsx'
 import './App.css'
 
 function App() {
